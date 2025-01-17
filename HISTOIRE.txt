@@ -1,0 +1,37 @@
+L’éveil du Cristal Ancien
+Vous êtes Kael, un aventurier choisi par le Conseil des Sages pour une quête périlleuse. Une force obscure menace le royaume d’Andralis, et il ne reste qu’un espoir : réveiller le Cristal Ancien, une source de magie capable de repousser les ténèbres.
+
+Vous vous tenez devant trois chemins au pied d'une montagne. Une brise glacée vous fait frissonner, et le grondement lointain d’une créature vous met sur vos gardes.
+
+Que faites-vous ?
+1. Prendre le sentier de la forêt enchantée : Ce chemin est entouré de rumeurs. On dit que des esprits y errent, offrant aide ou malédiction.
+2. Gravir le flanc rocheux de la montagne : Direct mais risqué, ce sentier est infesté de griffons territoriaux.
+3. Descendre dans une grotte obscure : Une entrée sombre s’ouvre à vos pieds. Le murmure d’eaux souterraines vous intrigue.
+
+
+Choix 1 : La forêt enchantée
+Vous pénétrez sous la canopée verdoyante, où la lumière du soleil est filtrée par des feuillages épais. Soudain, une voix mélodieuse vous appelle :
+— Voyageur, approche. Cherches-tu des réponses ?
+
+Un esprit lumineux flotte devant vous, semblant bienveillant.
+
+Que faites-vous ?
+1. Lui demander de l’aide pour trouver le Cristal.
+2. L’ignorer et poursuivre votre chemin, méfiant.
+3. Tenter de capturer l’esprit pour en faire un allié.
+
+Choix 2 : Le flanc rocheux de la montagne
+Vous escaladez les rochers abrupts, évitant des éboulements. Un griffon surgit, ses ailes majestueuses créant un vent puissant. Il bloque le passage.
+
+Que faites-vous ?
+1. Tenter de calmer la créature avec des gestes pacifiques.
+2. Sortir votre épée et engager le combat.
+3. Chercher un chemin pour contourner le griffon.
+
+Choix 3 : La grotte obscure
+La grotte est humide et froide. À l’intérieur, des runes anciennes brillent sur les murs. Vous trouvez une tablette de pierre décrivant un rituel pour éveiller le Cristal. Mais une ombre serpentine surgit : un naga veille sur ce lieu.
+
+Que faites-vous ?
+1. Tenter de communiquer avec la créature.
+2. Saisir la tablette et fuir.
+3. Provoquer la naga pour qu’elle vous révèle des informations.
